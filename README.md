@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayfa125, with 1 year experience in coding and design.
+- 👋 Hi, I'm Front-end Web developer.
 - 👀 Interested in tech innovation and creative exploration.
 - 🌱 Currently delving into advanced UI development.
 - 💞️ Open to collaborations on challenging projects.
