@@ -1,8 +1,8 @@
-- 👋 Hi, I'm Front-end Web developer.
-- 👀 Interested in tech innovation and creative exploration.
-- 🌱 Currently delving into advanced UI development.
+- 👋 Hi, I'm a Jr. Data Scientist.
+- 👀 Interested in advanced tech innovation and creative exploration.
+- 🌱 Currently delving into learning and practicing advanced Python, SQL, Statistics, and Machine learning.
 - 💞️ Open to collaborations on challenging projects.
-- 📫 Reach me via LinkedIn or email.
+- 📫 Reach me via email.
 - 😄 Pronouns: She/her
 
 <!---
